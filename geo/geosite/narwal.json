@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "narwal.com",
+      "domain_suffix": ".narwal.com"
+    }
+  ]
+}
